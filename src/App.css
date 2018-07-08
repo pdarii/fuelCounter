@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.container {
+  padding-top: 50px;
+}
+
+.row form {
+  width: 100%;
+}
